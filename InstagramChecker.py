@@ -146,7 +146,7 @@ class InstagramChecker:
                 headers=headers,
                 json=json_data,
             )
-            if checkavailable == True:
+            if checkavailable['isAvailable'] == True:
                 return email
         else:
             print(f'fail {email}')

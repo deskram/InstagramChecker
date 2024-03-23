@@ -1,7 +1,7 @@
 #                         InstagramChecker
 PY DEV DeskRam «Ali» https://t.me/deskram
 
-A tool for Checker Instgram Hotmail & Outlook account on Instagram
+A tool for Checker Instgram Accounts Available On Hotmail & Outlook Mail
 
 # Installation 🛠️
 # command:
